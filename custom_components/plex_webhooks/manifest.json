@@ -8,5 +8,6 @@
     "codeowners": [
         "@JBassett"
     ],
-    "requirements": []
+    "requirements": [],
+    "version": "0.6.0"
 }
